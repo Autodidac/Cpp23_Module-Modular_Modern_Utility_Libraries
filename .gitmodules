@@ -1,0 +1,3 @@
+[submodule "external/odds"]
+    path = external/odds
+    url = https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Odds_Lib.git
